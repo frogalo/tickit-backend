@@ -243,8 +243,7 @@ tickit-backend/
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-Contact
-
+## Contact
 ### For questions or support, please contact:
 
     Email: ivo.urbanski@gmail.com

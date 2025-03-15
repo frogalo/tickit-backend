@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70937682-e9b7-47d6-a454-94536c48097c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/app/dashboard/health/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/dashboard/health/page.js" afterDir="false" />
+    <list default="true" id="70937682-e9b7-47d6-a454-94536c48097c" name="Changes" comment="feat: Add navbar, version history page, and layout changes">
+      <change afterPath="$PROJECT_DIR$/public/versionHistory.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/version-history/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dashboard/health/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/health/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +21,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "frogalo"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "git@github.com:frogalo/tickit-backend.git",
@@ -52,11 +64,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tmpAdmin\WebstormProjects\tickit-backend\src\app" />
       <recent name="C:\Users\tmpAdmin\WebstormProjects\tickit-backend\images" />
       <recent name="C:\Users\tmpAdmin\WebstormProjects\tickit-backend\src\app\dashboard\health" />
       <recent name="C:\Users\tmpAdmin\WebstormProjects\tickit-backend\src\app\lib" />
       <recent name="C:\Users\tmpAdmin\WebstormProjects\tickit-backend\src\app\api\guilds" />
-      <recent name="C:\Users\tmpAdmin\WebstormProjects\tickit-backend\src\app\api" />
     </key>
   </component>
   <component name="RunManager">
@@ -86,11 +98,25 @@
       <option name="presentableId" value="Default" />
       <updated>1742055744099</updated>
       <workItem from="1742055745519" duration="4193000" />
-      <workItem from="1742060000598" duration="3785000" />
+      <workItem from="1742060000598" duration="5243000" />
     </task>
+    <task id="LOCAL-00001" summary="back button on `health` page">
+      <option name="closed" value="true" />
+      <created>1742063908948</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742063908948</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="back button on `health` page" />
+    <MESSAGE value="feat: Add navbar, version history page, and layout changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Add navbar, version history page, and layout changes" />
   </component>
 </project>

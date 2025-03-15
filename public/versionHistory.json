@@ -1,0 +1,19 @@
+[
+  {
+    "version": "0.0.1",
+    "changes": [
+      "Initial release",
+      "Added health monitoring",
+      "Implemented ticketing system",
+      "Added reconnect button for database",
+      "Improved UI for health dashboard"
+    ]
+  },
+  {
+    "version": "0.0.2",
+    "changes": [
+      "Added sidebar with version history",
+      "Bug fixes and performance improvements"
+    ]
+  }
+]
