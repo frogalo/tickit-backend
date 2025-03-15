@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import Link from 'next/link'; // Import Next.js Link component
 
 export default function HealthDashboard() {
     const [health, setHealth] = useState(null);
@@ -192,6 +193,13 @@ export default function HealthDashboard() {
                         </div>
                     </div>
                 ) : null}
+
+                {/* Back to Home Button */}
+                <div className="flex justify-center mt-6">
+                    <Link href="/" className="px-4 py-2 bg-gray-800 text-white rounded hover:bg-gray-900 transition-colors">
+                        Back to Home
+                    </Link>
+                </div>
             </div>
         </div>
     );

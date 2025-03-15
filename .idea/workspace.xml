@@ -5,42 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70937682-e9b7-47d6-a454-94536c48097c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tickit-architecture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/auth/login/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/auth/register/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/guilds/[guildId]/config/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/guilds/[guildId]/tickets/[ticketId]/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/guilds/[guildId]/tickets/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/guilds/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/health/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/dashboard/health/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/lib/auth/encryption.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/lib/auth/jwt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/lib/mongodb/connection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/lib/mongodb/models/Guild.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/lib/mongodb/models/Ticket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/lib/mongodb/models/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/lib/mongodb/sharding.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/lib/queue/processingJobs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/lib/queue/simpleQueue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/lib/queue/ticketQueue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/lib/utils/logger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/lib/utils/validation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/middleware.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/not-found.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dashboard/health/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/dashboard/health/page.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +15,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:frogalo/tickit-backend.git",
+    "accountId": "c7335af7-cbbf-41b1-b8e9-5cde714455a1"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -68,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -115,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1742055744099</updated>
       <workItem from="1742055745519" duration="4193000" />
-      <workItem from="1742060000598" duration="3471000" />
+      <workItem from="1742060000598" duration="3785000" />
     </task>
     <servers />
   </component>
