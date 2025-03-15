@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70937682-e9b7-47d6-a454-94536c48097c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tickit-architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/auth/login/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/auth/register/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/guilds/[guildId]/config/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/guilds/[guildId]/tickets/[ticketId]/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/guilds/[guildId]/tickets/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/guilds/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/health/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/dashboard/health/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/lib/auth/encryption.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/lib/auth/jwt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/lib/mongodb/connection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/lib/mongodb/models/Guild.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/lib/mongodb/models/Ticket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/lib/mongodb/models/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/lib/mongodb/sharding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/lib/queue/processingJobs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/lib/queue/simpleQueue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/lib/queue/ticketQueue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/lib/utils/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/lib/utils/validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/not-found.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2uMQ0z4IISaGICPIxpTf045lupT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "PowerShell.t.ps1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.JavaScript",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.2.0.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tmpAdmin\WebstormProjects\tickit-backend\images" />
+      <recent name="C:\Users\tmpAdmin\WebstormProjects\tickit-backend\src\app\dashboard\health" />
+      <recent name="C:\Users\tmpAdmin\WebstormProjects\tickit-backend\src\app\lib" />
+      <recent name="C:\Users\tmpAdmin\WebstormProjects\tickit-backend\src\app\api\guilds" />
+      <recent name="C:\Users\tmpAdmin\WebstormProjects\tickit-backend\src\app\api" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="t.ps1" type="PowerShellRunType" factoryName="PowerShell" temporary="true" scriptUrl="$PROJECT_DIR$/t.ps1" executablePath="$PROJECT_DIR$/../../../../Windows/System32/WindowsPowerShell/v1.0/powershell.exe">
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PowerShell.t.ps1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.120" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70937682-e9b7-47d6-a454-94536c48097c" name="Changes" comment="" />
+      <created>1742055744099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742055744099</updated>
+      <workItem from="1742055745519" duration="4193000" />
+      <workItem from="1742060000598" duration="3471000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
